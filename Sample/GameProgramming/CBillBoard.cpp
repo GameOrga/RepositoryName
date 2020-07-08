@@ -1,4 +1,4 @@
-#include"CBillBoard.h"
+#include"CBillBoard.h"//
 #include"CCamera.h"
 #define _USE_MATH_DEFINES
 #include<math.h>
