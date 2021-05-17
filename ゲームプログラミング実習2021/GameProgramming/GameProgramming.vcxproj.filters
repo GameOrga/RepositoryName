@@ -194,5 +194,8 @@
     <ClInclude Include="CVector.h">
       <Filter>ソース ファイル\Lib</Filter>
     </ClInclude>
+    <ClInclude Include="NewClass.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
